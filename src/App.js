@@ -416,7 +416,6 @@ function App() {
   };
 
   const active = slides[index];
-  const [soundEnabled, setSoundEnabled] = useState(true);
 
   // componente helper para mostrar preview (imagen o video) en el marco
   const PreviewMedia = ({ slide }) => {
