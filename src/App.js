@@ -382,8 +382,8 @@ function App() {
     const hero = slides[index];
     socket.emit("set_hero", {
       hero: {
-        videoUrl: "/" + cleanPublic(hero.videoUrl || ""),
-        imageUrl: "/" + cleanPublic(hero.imageUrl || ""), // 👈 AHORA LO MANDAMOS
+        videoUrl: hero.videoUrl?.startsWith("http") ? hero.videoUrl : "/" + cleanPublic(hero.videoUrl || ""),
+        imageUrl: hero.imageUrl?.startsWith("http") ? hero.imageUrl : "/" + cleanPublic(hero.imageUrl || ""),
         name: hero.name,
         debutYear: hero.debutYear, // usar un solo campo consistente
         currentAge: hero.currentAge,
