@@ -11,7 +11,7 @@ function App() {
   const slides = useMemo(() => [
     {
       imageUrl: "",
-      videoUrl: "ALIEN.mp4",
+      videoUrl: "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/ALIEN.mp4",
       name: "XENOMORFO",
       debutYear: 1979,
       currentAge: 46,
@@ -32,7 +32,7 @@ function App() {
     },
     {
       imageUrl: "",
-      videoUrl: "TMNT-MIGUEL-ANGEL.mp4",
+      videoUrl: "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/TMNT-MIGUEL-ANGEL.mp4",
       name: "MIGUEL ÁNGEL (TMNT)",
       debutYear: 1984,
       currentAge: 41,
@@ -53,7 +53,7 @@ function App() {
     },
     {
       imageUrl: "",
-      videoUrl: "FRANKY.mp4",
+      videoUrl: "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/FRANKY.mp4",
       name: "FRANKENSTEIN",
       debutYear: 1818,
       currentAge: 207,
@@ -74,7 +74,7 @@ function App() {
     },
     {
       imageUrl: "",
-      videoUrl: "SPOCK.mp4",
+      videoUrl: "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/SPOCK.mp4",
       name: "SPOCK",
       debutYear: 1966,
       currentAge: 193,
@@ -95,7 +95,7 @@ function App() {
     },
     {
       imageUrl: "",
-      videoUrl: "DARTH-VADER.mp4",
+      videoUrl: "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/DARTH-VADER.mp4",
       name: "DARTH VADER",
       debutYear: 1977,
       currentAge: 45,
@@ -116,7 +116,7 @@ function App() {
     },
     {
       imageUrl: "",
-      videoUrl: "V-INVASION-EXTRATERRESTRE.mp4",
+      videoUrl: "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/V-INVASION-EXTRATERRESTRE.mp4",
       name: "VISITANTE (V)",
       debutYear: 1983,
       currentAge: 42,
@@ -137,7 +137,7 @@ function App() {
     },
     {
       imageUrl: "",
-      videoUrl: "DEMON.mp4",
+      videoUrl: "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/DEMON.mp4",
       name: "BLUE DEMON",
       debutYear: 1948,
       currentAge: 50,
@@ -158,7 +158,7 @@ function App() {
     },
     {
       imageUrl: "",
-      videoUrl: "GRAN-HEROE.mp4",
+      videoUrl: "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/GRAN-HEROE.mp4",
       name: "HÉROE AMERICANO",
       debutYear: 1981,
       currentAge: 35,
@@ -202,7 +202,7 @@ function App() {
 
     {
       imageUrl: "",
-      videoUrl: "HOMBRE-NUCLEAR.mp4",
+      videoUrl: "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/HOMBRE-NUCLEAR.mp4",
       name: "HOMBRE NUCLEAR",
       debutYear: 1974,
       currentAge: 42,
@@ -246,7 +246,7 @@ function App() {
 
     {
       imageUrl: "",
-      videoUrl: "ET.mp4",
+      videoUrl: "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/ET.mp4",
       name: "E.T.",
       debutYear: 1982,
       currentAge: 10,
@@ -268,7 +268,7 @@ function App() {
 
     {
       imageUrl: "",
-      videoUrl: "CAPITAN-PREMIER.mp4",
+      videoUrl: "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/CAPITAN-PREMIER.mp4",
       name: "CAPITÁN PREMIERE",
       debutYear: 2020,
       currentAge: 30,
@@ -290,7 +290,7 @@ function App() {
 
     {
       imageUrl: "",
-      videoUrl: "STARMAN.mp4",
+      videoUrl: "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/STARMAN.mp4",
       name: "STAR MAN",
       debutYear: 1985,
       currentAge: 37,
@@ -312,7 +312,7 @@ function App() {
 
     {
       imageUrl: "",
-      videoUrl: "ORION-EL-ATLANTE.mp4",
+      videoUrl: "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/ORION-EL-ATLANTE.mp4",
       name: "ORION EL ATLANTE",
       debutYear: 1992,
       currentAge: 140,
@@ -333,7 +333,7 @@ function App() {
     },
     {
       imageUrl: "",
-      videoUrl: "VECNA.mp4",
+      videoUrl: "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/VECNA.mp4",
       name: "VECNA",
       debutYear: 2022,
       currentAge: "APROX. 35+ (forma humanoide original)",
@@ -354,7 +354,7 @@ function App() {
     },
     {
       imageUrl: "",
-      videoUrl: "MARS-ATTACK.mp4",
+      videoUrl: "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/MARS-ATTACK.mp4",
       name: "MARCIANO (MARS ATTACKS)",
       debutYear: 1996,
       currentAge: 120,
