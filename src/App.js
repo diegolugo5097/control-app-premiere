@@ -1,7 +1,9 @@
 import React, { useState, useEffect, useMemo } from "react";
 import { io } from "socket.io-client";
 
-const socket = io("https://panel-server-premire.onrender.com");
+const socket = io("https://panel-server-premire.onrender.com", {
+  transports: ["websocket"],
+});
 
 function cleanPublic(p) {
   return (p || "").replace(/^\/?public\//i, "");
