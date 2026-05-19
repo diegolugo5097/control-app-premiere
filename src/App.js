@@ -232,29 +232,6 @@ function App() {
             "Aliado potencial. Capacidad de vuelo, fuerza aumentada y cierta invulnerabilidad, aunque con control limitado.",
         },
       },
-
-      {
-        imageUrl: "/flash-gordon-9x16.jpeg",
-        videoUrl: "",
-        name: "FLASH GORDON",
-        debutYear: 1934,
-        currentAge: 40,
-        story:
-          "Humano enfrentado a amenazas interplanetarias. Experto en combate improvisado y liderazgo en entornos hostiles.",
-        powers:
-          "Habilidad de adaptación extrema en entornos alienígenas, liderazgo bajo presión, combate cuerpo a cuerpo improvisado, valentía temeraria.",
-        mediaHistory:
-          "Nacido en tiras cómics pulp en 1934, luego seriales de cine, animación y película de culto en los 80. Ícono del héroe espacial clásico enfrentando dictadores galácticos.",
-        medical: {
-          status: "ACTIVO",
-          heartRate: "96 BPM",
-          radiationLevel: "NORMAL",
-          threatLevel: "BAJO",
-          notes:
-            "Alto factor heroico. Capaz de inspirar resistencia en mundos bajo dominación tiránica.",
-        },
-      },
-
       {
         imageUrl: "",
         videoUrl:
