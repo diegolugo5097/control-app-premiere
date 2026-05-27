@@ -254,7 +254,50 @@ function App() {
             "Reemplazos biomecánicos tolerados. Requiere mantenimiento técnico especializado, no médico convencional.",
         },
       },
-
+      {
+        imageUrl: "",
+        videoUrl:
+          "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/HULK.mp4",
+        name: "HULK",
+        debutYear: 1962,
+        currentAge: 64,
+        story:
+          "Entidad gamma surgida tras exposición extrema a radiación experimental. Transformación impulsada por estrés y furia, convirtiendo al sujeto en una fuerza destructiva imparable.",
+        powers:
+          "Fuerza física ilimitada vinculada al nivel de ira, regeneración acelerada, resistencia extrema, saltos de larga distancia, resistencia a impactos balísticos y energía gamma masiva.",
+        mediaHistory:
+          "Considerado uno de los seres más peligrosos del universo Marvel. Su presencia ha provocado destrucción masiva en múltiples ciudades y enfrentamientos contra equipos completos de superhéroes, incluyendo amenazas mutantes y organizaciones militares.",
+        medical: {
+          status: "FUERA DE CONTROL",
+          heartRate: "210 BPM",
+          radiationLevel: "CRÍTICA (ENERGÍA GAMMA)",
+          threatLevel: "EXTREMO",
+          notes:
+            "La actividad gamma aumenta exponencialmente con estados emocionales agresivos. Capacidad regenerativa impide neutralización convencional. Riesgo de devastación urbana total.",
+        },
+      },
+      {
+        imageUrl: "",
+        videoUrl:
+          "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/DESTRUCTOR.mp4",
+        name: "DESTRUCTOR",
+        debutYear: 1984,
+        currentAge: 42,
+        story:
+          "Maestro supremo del Clan del Pie y estratega criminal entrenado en artes marciales extremas. Su obsesión por el poder y la venganza lo convirtió en uno de los enemigos más letales de las Tortugas Ninja.",
+        powers:
+          "Combate cuerpo a cuerpo de nivel maestro, dominio de armas ninjas, armadura reforzada con cuchillas de acero, inteligencia táctica avanzada, liderazgo militar y resistencia física superior.",
+        mediaHistory:
+          "Principal antagonista de las Tortugas Ninja desde su debut en los cómics Mirage Studios. Ha liderado organizaciones criminales, ejércitos ninjas y versiones mutadas de sí mismo en múltiples adaptaciones animadas y cinematográficas.",
+        medical: {
+          status: "HOSTIL",
+          heartRate: "88 BPM",
+          radiationLevel: "MODERADA (TECNOLOGÍA Y MUTÁGENO)",
+          threatLevel: "ALTO",
+          notes:
+            "Entrenamiento físico extremo y disciplina mental elevada. Uso frecuente de tecnología experimental y mutágenos incrementa agresividad y resistencia en combate.",
+        },
+      },
       {
         imageUrl: "",
         videoUrl:
