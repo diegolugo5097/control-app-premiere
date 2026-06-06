@@ -502,7 +502,7 @@ function App() {
       {
         imageUrl: "",
         videoUrl:
-          "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/TERMINATOR.mp4",
+          "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/terminator.mp4",
         name: "TERMINATOR T-800",
         debutYear: 1984,
         currentAge: 42,
