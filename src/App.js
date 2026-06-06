@@ -436,6 +436,94 @@ function App() {
       {
         imageUrl: "",
         videoUrl:
+          "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/ROBOCOP.mp4",
+        name: "ROBOCOP",
+        debutYear: 1987,
+        currentAge: 39,
+        story:
+          "Oficial de policía reconstruido mediante un programa cibernético experimental tras sufrir heridas fatales en servicio. Conserva fragmentos de su humanidad mientras actúa como agente de la ley.",
+        powers:
+          "Fuerza cibernética aumentada, puntería de precisión asistida por computadora, blindaje avanzado, acceso instantáneo a bases de datos, resistencia superior y análisis táctico en tiempo real.",
+        mediaHistory:
+          "Símbolo de la fusión entre hombre y máquina. Diseñado para combatir el crimen urbano mediante tecnología avanzada y protocolos de cumplimiento de la ley.",
+        medical: {
+          status: "OPERATIVO",
+          heartRate: "58 BPM",
+          radiationLevel: "BAJA (SISTEMAS CIBERNÉTICOS)",
+          threatLevel: "MEDIO",
+          notes:
+            "La mayor parte del cuerpo ha sido reemplazada por componentes mecánicos. Requiere mantenimiento técnico especializado y actualizaciones de software.",
+        },
+      },
+      {
+        imageUrl: "",
+        videoUrl:
+          "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/SUPERMAN.mp4",
+        name: "SUPERMAN",
+        debutYear: 1938,
+        currentAge: 88,
+        story:
+          "Último hijo de un mundo destruido. Llegó a la Tierra siendo un bebé y desarrolló habilidades extraordinarias gracias a la energía de un sol amarillo.",
+        powers:
+          "Fuerza colosal, vuelo supersónico, visión de calor, visión de rayos X, superfuerza, supervelocidad, invulnerabilidad, aliento congelante y sentidos sobrehumanos.",
+        mediaHistory:
+          "Considerado uno de los mayores protectores de la Tierra. Ha enfrentado invasiones alienígenas, amenazas cósmicas y desastres globales como símbolo de esperanza.",
+        medical: {
+          status: "ÓPTIMO",
+          heartRate: "40 BPM",
+          radiationLevel: "SOLAR ELEVADA",
+          threatLevel: "EXTREMO",
+          notes:
+            "Biología kryptoniana alimentada por radiación solar amarilla. Vulnerabilidad conocida a la kriptonita y ciertas formas de energía mágica.",
+        },
+      },
+      {
+        imageUrl: "",
+        videoUrl:
+          "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/SOLDADO-UNIVERSAL.mp4",
+        name: "SOLDADO UNIVERSAL",
+        debutYear: 1992,
+        currentAge: 34,
+        story:
+          "Combatiente fallecido recuperado mediante tecnología militar secreta para crear un supersoldado capaz de operar sin emociones y con capacidades físicas mejoradas.",
+        powers:
+          "Fuerza aumentada, resistencia al dolor, reflejos mejorados, capacidad de combate avanzada, recuperación acelerada y obediencia programada.",
+        mediaHistory:
+          "Parte de un programa gubernamental destinado a reutilizar soldados caídos como unidades de combate altamente eficientes y controladas electrónicamente.",
+        medical: {
+          status: "ACTIVO",
+          heartRate: "45 BPM",
+          radiationLevel: "BAJA",
+          threatLevel: "ALTO",
+          notes:
+            "Funciones biológicas alteradas mediante procesos de reanimación. Requiere enfriamiento corporal periódico para mantener estabilidad operativa.",
+        },
+      },
+      {
+        imageUrl: "",
+        videoUrl:
+          "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/TERMINATOR.mp4",
+        name: "TERMINATOR T-800",
+        debutYear: 1984,
+        currentAge: 42,
+        story:
+          "Unidad de infiltración creada por una inteligencia artificial militar para eliminar objetivos humanos. Exterior biológico diseñado para mezclarse con la población.",
+        powers:
+          "Fuerza sobrehumana, blindaje de aleación metálica, análisis táctico instantáneo, precisión extrema, resistencia masiva a daños y operación continua sin descanso.",
+        mediaHistory:
+          "Uno de los modelos más emblemáticos enviados a través del tiempo para alterar eventos clave en la guerra entre máquinas y humanidad.",
+        medical: {
+          status: "MÁQUINA ACTIVA",
+          heartRate: "NO APLICABLE",
+          radiationLevel: "NULA",
+          threatLevel: "EXTREMO",
+          notes:
+            "Endoesqueleto de combate cubierto por tejido orgánico sintético. Puede continuar operando incluso después de sufrir daños catastróficos.",
+        },
+      },
+      {
+        imageUrl: "",
+        videoUrl:
           "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/MARS-ATTACK.mp4",
         name: "MARCIANO (MARS ATTACKS)",
         debutYear: 1996,
