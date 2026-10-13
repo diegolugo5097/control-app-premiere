@@ -631,6 +631,73 @@ function App() {
             "Entidad de comportamiento predominantemente no hostil. Produce residuos viscosos y presenta una elevada capacidad de adherencia. Se recomienda contención especializada para fenómenos paranormales.",
         },
       },
+
+      {
+        imageUrl: "",
+        videoUrl:
+          "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/CHUCKY.mp4",
+        name: "CHUCKY",
+        debutYear: 1988,
+        currentAge: 38,
+        story:
+          "Muñeco poseído por el espíritu del asesino Charles Lee Ray mediante un ritual de magia vudú. A pesar de su pequeño tamaño, presenta una conducta extremadamente violenta, gran capacidad de engaño y una persistencia extraordinaria.",
+        powers:
+          "Transferencia espiritual mediante rituales, resistencia física inusual, capacidad de ocultar sus intenciones, manipulación psicológica, uso de herramientas y armas, y habilidad para continuar operando pese a daños físicos considerables.",
+        mediaHistory:
+          "Antagonista principal de la franquicia Child's Play, estrenada en 1988. Ha protagonizado múltiples películas y la serie Chucky, convirtiéndose en uno de los muñecos asesinos más reconocidos del cine de terror.",
+        medical: {
+          status: "HOSTIL ACTIVO",
+          heartRate: "NO DOCUMENTADO",
+          radiationLevel: "SOBRENATURAL / ESPIRITUAL",
+          threatLevel: "EXTREMO",
+          notes:
+            "Apariencia de juguete que facilita la infiltración. Alta capacidad de engaño y resistencia anómala. No subestimar por su tamaño reducido.",
+        },
+      },
+      {
+        imageUrl: "",
+        videoUrl:
+          "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/GREMLY.mp4",
+        name: "GREMLIN",
+        debutYear: 1984,
+        currentAge: 42,
+        story:
+          "Criatura surgida de la transformación de un Mogwai tras incumplir condiciones específicas de cuidado. Presenta comportamiento caótico, inteligencia oportunista y una fuerte tendencia a provocar daños y desorden en su entorno.",
+        powers:
+          "Agilidad elevada, fuerza superior a la esperada para su tamaño, capacidad de organización en grupos, adaptación a entornos urbanos, manipulación de objetos y equipos, y reproducción acelerada bajo determinadas condiciones.",
+        mediaHistory:
+          "Criaturas antagonistas de la película Gremlins, estrenada en 1984, y su secuela de 1990. La franquicia combina terror, comedia y fantasía, con los Gremlins como fuente principal de caos.",
+        medical: {
+          status: "BIOLOGÍA ANÓMALA / CONTENCIÓN PRIORITARIA",
+          heartRate: "NO DOCUMENTADO",
+          radiationLevel: "BIOLÓGICA",
+          threatLevel: "ALTO",
+          notes:
+            "Organismo de comportamiento impredecible. Evitar la exposición al agua y la alimentación después de la medianoche, de acuerdo con las reglas de la franquicia. Vigilar posibles procesos de reproducción.",
+        },
+      },
+      {
+        imageUrl: "",
+        videoUrl:
+          "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/DUENDE.mp4",
+        name: "LEPRECHAUN",
+        debutYear: 1993,
+        currentAge: 33,
+        story:
+          "Entidad sobrenatural asociada con el oro, la magia y una obsesión por recuperar sus riquezas. Puede adoptar una apariencia engañosa y perseguir persistentemente a quienes interfieren con sus posesiones.",
+        powers:
+          "Magia sobrenatural, teletransportación, alteración de la percepción, fuerza anómala, resistencia extraordinaria, creación de ilusiones y capacidad para ejecutar ataques mediante métodos impredecibles.",
+        mediaHistory:
+          "Protagonista de la franquicia de terror Leprechaun, iniciada en 1993. El personaje combina elementos del folclore irlandés con terror sobrenatural y humor oscuro, apareciendo en múltiples secuelas y reinicios.",
+        medical: {
+          status: "ENTIDAD SOBRENATURAL HOSTIL",
+          heartRate: "NO APLICA / NO CONFIRMADO",
+          radiationLevel: "MÁGICA / SOBRENATURAL",
+          threatLevel: "EXTREMO",
+          notes:
+            "Entidad con resistencia física y capacidades mágicas fuera de parámetros humanos. Su comportamiento está estrechamente relacionado con la protección y recuperación de su oro. Contención convencional posiblemente ineficaz.",
+        },
+      },
     ],
     [],
   );
