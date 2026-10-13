@@ -546,7 +546,7 @@ function App() {
       {
         imageUrl: "",
         videoUrl:
-          "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/SPEEDY.mp4",
+          "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/SPEEDY.MP4",
         name: "SPEEDY GONZALES",
         debutYear: 1953,
         currentAge: 73,
@@ -568,7 +568,7 @@ function App() {
       {
         imageUrl: "",
         videoUrl:
-          "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/CEREBRO.mp4",
+          "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/CEREBRO.MP4",
         name: "CEREBRO",
         debutYear: 1995,
         currentAge: 31,
@@ -590,7 +590,7 @@ function App() {
       {
         imageUrl: "",
         videoUrl:
-          "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/CRANK.mp4",
+          "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/CRANK.MP4",
         name: "KRANG",
         debutYear: 1987,
         currentAge: 39,
@@ -612,7 +612,7 @@ function App() {
       {
         imageUrl: "",
         videoUrl:
-          "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/PEGAJOSO.mp4",
+          "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/PEGAJOSO.MP4",
         name: "PEGAJOSO",
         debutYear: 1984,
         currentAge: 42,
@@ -635,7 +635,7 @@ function App() {
       {
         imageUrl: "",
         videoUrl:
-          "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/CHUCKY.mp4",
+          "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/CHUCKY.MP4",
         name: "CHUCKY",
         debutYear: 1988,
         currentAge: 38,
@@ -657,7 +657,7 @@ function App() {
       {
         imageUrl: "",
         videoUrl:
-          "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/GREMLY.mp4",
+          "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/GREMLY.MP4",
         name: "GREMLIN",
         debutYear: 1984,
         currentAge: 42,
@@ -679,7 +679,7 @@ function App() {
       {
         imageUrl: "",
         videoUrl:
-          "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/DUENDE.mp4",
+          "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/DUENDE.MP4",
         name: "LEPRECHAUN",
         debutYear: 1993,
         currentAge: 33,
