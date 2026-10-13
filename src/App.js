@@ -543,6 +543,96 @@ function App() {
             "Extremadamente peligroso incluso sin provocación directa. Priorizar neutralización a distancia. No bajar la guardia ante señales de 'paz'.",
         },
       },
+      [
+        {
+          imageUrl: "",
+          videoUrl:
+            "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/SPEEDY.mp4",
+          name: "SPEEDY GONZALES",
+          debutYear: 1953,
+          currentAge: 73,
+          story:
+            "Ratón mexicano reconocido por su velocidad extraordinaria y su capacidad para evadir cualquier intento de captura. Su comportamiento es impredecible y suele superar a sus perseguidores mediante maniobras de alta velocidad.",
+          powers:
+            "Velocidad de desplazamiento excepcional, reflejos ultrarrápidos, capacidad de evasión, cambios de dirección instantáneos, agilidad superior y resistencia física durante persecuciones prolongadas.",
+          mediaHistory:
+            "Personaje de Looney Tunes que debutó en 1953. Se convirtió en uno de los personajes más reconocidos de Warner Bros., protagonizando cortometrajes animados, series y numerosas apariciones en producciones de animación.",
+          medical: {
+            status: "ACTIVO / DIFÍCIL DE CAPTURAR",
+            heartRate: "VARIABLE / NO DOCUMENTADO",
+            radiationLevel: "NO DETECTABLE",
+            threatLevel: "MODERADO",
+            notes:
+              "Objetivo de movilidad extrema. Los métodos convencionales de captura presentan una eficacia limitada. Se recomienda seguimiento visual continuo.",
+          },
+        },
+        {
+          imageUrl: "",
+          videoUrl:
+            "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/CEREBRO.mp4",
+          name: "CEREBRO",
+          debutYear: 1995,
+          currentAge: 31,
+          story:
+            "Ratón de laboratorio genéticamente alterado, caracterizado por una inteligencia extraordinaria y una obsesión constante por conquistar el mundo. Diseña planes complejos que suelen fracasar por factores externos o errores de ejecución.",
+          powers:
+            "Inteligencia estratégica superior, planificación avanzada, conocimientos científicos, capacidad de manipulación, diseño de dispositivos tecnológicos y elaboración de planes de dominación global.",
+          mediaHistory:
+            "Protagonista de Pinky y Cerebro, serie derivada de Animaniacs estrenada en 1995. Sus intentos recurrentes de conquistar el mundo lo convirtieron en un personaje emblemático de la animación televisiva.",
+          medical: {
+            status: "ACTIVO / AMENAZA ESTRATÉGICA",
+            heartRate: "NO DOCUMENTADO",
+            radiationLevel: "NO DETECTABLE",
+            threatLevel: "ALTO",
+            notes:
+              "Capacidad intelectual excepcional. Riesgo asociado a la planificación de operaciones a gran escala. Requiere supervisión de sus proyectos tecnológicos.",
+          },
+        },
+        {
+          imageUrl: "",
+          videoUrl:
+            "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/CRANK.mp4",
+          name: "KRANG",
+          debutYear: 1987,
+          currentAge: 39,
+          story:
+            "Entidad alienígena con apariencia de cerebro y origen en la Dimensión X. Utiliza tecnología avanzada y cuerpos mecánicos para compensar sus limitaciones físicas, con el objetivo de conquistar la Tierra y expandir su dominio.",
+          powers:
+            "Intelecto científico avanzado, control de cuerpos robóticos, tecnología interdimensional, armamento futurista, sistemas de transporte dimensional y capacidad de operar maquinaria de combate de gran tamaño.",
+          mediaHistory:
+            "Antagonista de Teenage Mutant Ninja Turtles, popularizado en la serie animada de 1987. Ha aparecido en distintas adaptaciones de la franquicia, incluyendo series posteriores, videojuegos y películas.",
+          medical: {
+            status: "HOSTIL ACTIVO",
+            heartRate: "NO APLICA / BIOLOGÍA ALIENÍGENA",
+            radiationLevel: "ALIENÍGENA / TECNOLÓGICA",
+            threatLevel: "EXTREMO",
+            notes:
+              "Organismo de origen extraterrestre con dependencia de tecnología externa para movilidad y combate. Prioridad elevada de contención por capacidad de invasión interdimensional.",
+          },
+        },
+        {
+          imageUrl: "",
+          videoUrl:
+            "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/PEGAJOSO.mp4",
+          name: "PEGAJOSO",
+          debutYear: 1984,
+          currentAge: 42,
+          story:
+            "Entidad ectoplásmica de gran tamaño, caracterizada por su comportamiento generalmente amistoso y su apetito voraz. Su cuerpo viscoso le permite desplazarse por espacios reducidos y dejar residuos difíciles de eliminar.",
+          powers:
+            "Composición ectoplásmica, deformación corporal, adherencia a superficies, desplazamiento a través de espacios estrechos, resistencia a impactos físicos convencionales y capacidad de cubrir objetos con una sustancia viscosa.",
+          mediaHistory:
+            "Personaje asociado a la franquicia Ghostbusters desde la película original de 1984. Su popularidad dio lugar a apariciones en series animadas, películas posteriores, videojuegos y otros productos derivados.",
+          medical: {
+            status: "ECTOPLASMA ACTIVO",
+            heartRate: "NO APLICA",
+            radiationLevel: "ECTOPLÁSMICA",
+            threatLevel: "BAJO / CONTAMINANTE",
+            notes:
+              "Entidad de comportamiento predominantemente no hostil. Produce residuos viscosos y presenta una elevada capacidad de adherencia. Se recomienda contención especializada para fenómenos paranormales.",
+          },
+        },
+      ],
     ],
     [],
   );
