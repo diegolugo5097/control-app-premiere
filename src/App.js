@@ -546,6 +546,28 @@ function App() {
       {
         imageUrl: "",
         videoUrl:
+          "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/PINHEAD.MP4",
+        name: "PINHEAD",
+        debutYear: 1987,
+        currentAge: 39,
+        story:
+          "Entidad extradimensional conocida como el Sacerdote del Infierno, vinculada a los Cenobitas y a la configuración de la Caja de Lemarchand. Antiguamente humano, fue transformado en una entidad que opera más allá de los límites convencionales del dolor, el placer y la percepción. Actúa como ejecutor de pactos y guardián de los umbrales hacia dimensiones de tormento.",
+        powers:
+          "Control telequinético de cadenas y ganchos, manipulación del espacio dimensional, resistencia sobrenatural, capacidad para abrir portales, percepción extrasensorial, invocación de cadenas desde superficies y restricciones físicas, y alteración de la experiencia sensorial de sus víctimas.",
+        mediaHistory:
+          "Debutó en la película Hellraiser (1987), dirigida por Clive Barker y basada en su novela The Hellbound Heart. Se convirtió en el personaje más emblemático de la franquicia, apareciendo en numerosas secuelas y en la reinterpretación cinematográfica de 2022.",
+        medical: {
+          status: "ENTIDAD EXTRADIMENSIONAL ACTIVA",
+          heartRate: "NO APLICA / NO CONFIRMADO",
+          radiationLevel: "ENERGÍA SOBRENATURAL",
+          threatLevel: "EXTREMO",
+          notes:
+            "Anatomía humanoide alterada mediante modificaciones rituales. Control avanzado de cadenas y mecanismos de restricción. Capacidad de desplazamiento dimensional. Evitar la manipulación no autorizada de la Caja de Lemarchand. Los protocolos convencionales de contención se consideran insuficientes.",
+        },
+      },
+      {
+        imageUrl: "",
+        videoUrl:
           "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/SPEEDY.MP4",
         name: "SPEEDY GONZALES",
         debutYear: 1953,
