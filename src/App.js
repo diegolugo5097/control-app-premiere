@@ -568,6 +568,50 @@ function App() {
       {
         imageUrl: "",
         videoUrl:
+          "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/PATULA.MP4",
+        name: "CONDE PÁTULA",
+        debutYear: 1988,
+        currentAge: 38,
+        story:
+          "Vampiro vegetariano resucitado accidentalmente mediante un ritual que sustituyó la sangre por kétchup. A diferencia de los vampiros tradicionales, carece de instinto depredador y prefiere explorar el mundo en busca de aventuras, acompañado por sus excéntricos sirvientes.",
+        powers:
+          "Inmortalidad vampírica condicionada, capacidad de volar, transformación y desplazamiento sobrenatural según las convenciones de su especie, resistencia al envejecimiento y habilidades propias de un vampiro. Su naturaleza vegetariana limita su comportamiento depredador.",
+        mediaHistory:
+          "Protagonista de la serie animada británica Count Duckula, estrenada en 1988. La serie presenta una versión cómica de un vampiro convertido en pato vegetariano y parodia los tópicos clásicos del terror gótico.",
+        medical: {
+          status: "ACTIVO / NO HOSTIL",
+          heartRate: "NO DOCUMENTADO",
+          radiationLevel: "SOBRENATURAL / VAMPÍRICA",
+          threatLevel: "BAJO",
+          notes:
+            "Entidad vampírica con comportamiento predominantemente pacífico. Presenta aversión a la alimentación basada en sangre y una marcada inclinación por las aventuras. Riesgo de agresión directa reducido.",
+        },
+      },
+      {
+        imageUrl: "",
+        videoUrl:
+          "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/PALETA-DRACULA.MP4",
+        name: "DRÁCULA (PALETA DRÁCULA)",
+        debutYear: 1989,
+        currentAge: 37,
+        story:
+          "Personaje promocional asociado a la paleta helada Drácula, inspirado en la figura clásica del vampiro. Representa una criatura de estética gótica vinculada a una golosina de temporada, reconocida por su presentación temática y su asociación con Halloween.",
+        powers:
+          "Atributos vampíricos ficticios, transformación simbólica en murciélago, desplazamiento nocturno, presencia intimidante y capacidades sobrenaturales inspiradas en el folclore de los vampiros. Las habilidades específicas dependen de la versión publicitaria o animada utilizada.",
+        mediaHistory:
+          "Personaje asociado a la paleta Drácula de Crem Helado, comercializada en Colombia desde finales de la década de 1980. Se convirtió en un referente cultural de Halloween y de las temporadas de octubre, gracias a sus campañas publicitarias y a su identidad visual vampírica.",
+        medical: {
+          status: "PERSONAJE PUBLICITARIO / FICTICIO",
+          heartRate: "NO APLICA",
+          radiationLevel: "NO DETECTABLE",
+          threatLevel: "BAJO",
+          notes:
+            "Representación ficticia de un vampiro vinculada a un producto alimenticio. No existe evidencia de capacidades biológicas o sobrenaturales reales. Clasificación basada en su identidad temática.",
+        },
+      },
+      {
+        imageUrl: "",
+        videoUrl:
           "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/SPEEDY.MP4",
         name: "SPEEDY GONZALES",
         debutYear: 1953,
