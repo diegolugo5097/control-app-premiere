@@ -590,6 +590,28 @@ function App() {
       {
         imageUrl: "",
         videoUrl:
+          "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/CASPER.MP4",
+        name: "CASPER EL FANTASMA",
+        debutYear: 1945,
+        currentAge: 81,
+        story:
+          "Fantasma infantil de personalidad amable y comportamiento pacífico. A diferencia de las entidades espectrales tradicionales, Casper no busca asustar ni hacer daño a los seres humanos, sino establecer amistades y ayudar a quienes encuentra. Su naturaleza incorpórea le permite atravesar objetos sólidos e interactuar con el mundo físico de formas extraordinarias.",
+        powers:
+          "Intangibilidad, invisibilidad, levitación, vuelo, atravesar paredes y objetos sólidos, transformación corporal, modificación de su apariencia, flotación aérea y capacidad para interactuar con seres vivos y objetos pese a carecer de un cuerpo físico convencional.",
+        mediaHistory:
+          "Debutó en 1945 en el cortometraje animado The Friendly Ghost, producido por Famous Studios. Posteriormente protagonizó numerosas series animadas, cómics y películas, entre ellas Casper (1995), que popularizó al personaje entre nuevas generaciones.",
+        medical: {
+          status: "ENTIDAD ESPECTRAL / NO HOSTIL",
+          heartRate: "NO APLICA",
+          radiationLevel: "ENERGÍA ECTOPLÁSMICA",
+          threatLevel: "MÍNIMO",
+          notes:
+            "Entidad incorpórea con comportamiento amistoso. No presenta signos fisiológicos convencionales. Capacidad de atravesar barreras físicas que dificulta su confinamiento mediante métodos tradicionales. No representa una amenaza deliberada para los seres humanos.",
+        },
+      },
+      {
+        imageUrl: "",
+        videoUrl:
           "https://pub-281a6aee3610400a861c3477a794a156.r2.dev/PALETA-DRACULA.MP4",
         name: "DRÁCULA (PALETA DRÁCULA)",
         debutYear: 1989,
